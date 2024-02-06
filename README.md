@@ -7,6 +7,8 @@ Além disso, uma rota de login básica foi criada e em outro repositório vou co
 1. Ter a base de dados com tabela clientes, produtos e usuários.
 2. Definir no arquivo src/config/database o diretório do DB
 3. Definir o token a ser usado em "tokenacess" no cliente / servidor.
+4. Para iniciar digite "cd src"
+5. "node index.cjs"
 
 # Token
 Definido como fixo, pensando em solução onde somente aquele cliente específico pode se conectar.
